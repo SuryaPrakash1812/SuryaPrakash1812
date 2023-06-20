@@ -5,7 +5,7 @@
 - 👀 I’m interested in coding <br>
 - 🌱 I’m currently learning **Java full stack** <br>
 - 📫 Reach me at suryaprakash181299@gmail.com <br>
-- My portfolio-suryaprakash4.wordpress.com
+- My portfolio-<a href="suryaprakash4.wordpress.com">suryaprakash4.wordpress.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/surya-prakash-850bb8264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/Suryaprakash1812" height="30" width="40" /></a>
