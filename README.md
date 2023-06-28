@@ -16,4 +16,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="c#"  width="40" height="40"/>
+ <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" alt="react-js"  width="40" height="40"/>
 </p>
