@@ -17,4 +17,5 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="c#"  width="40" height="40"/>
  <img src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png" alt="react-js"  width="40" height="40"/>
+ <img src="https://icons8.com/icon/l9a5tcSnBwcf/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"  width="40" height="40"/>
 </p>
